@@ -73,5 +73,4 @@ O servidor utiliza um `HashMap<Integer, String>` para armazenar e recuperar info
 
 ## Feito por:
 
-Sahel Sancho
-Kauan Leão
+Sahel Sancho e Kauan Leão
