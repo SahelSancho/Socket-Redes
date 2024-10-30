@@ -71,14 +71,7 @@ Conexão encerrada pelo cliente.
 
 O servidor utiliza um `HashMap<Integer, String>` para armazenar e recuperar informações associadas aos IDs. Se o ID não for encontrado, o servidor retorna uma mensagem informando que o ID não existe.
 
-## Personalização
+## Feito por:
 
-Você pode personalizar o conteúdo do `HashMap` no código do servidor (`Servidor.java`) para testar com diferentes dados ou adicionar novas funcionalidades, como autenticação e comunicação bidirecional mais complexa.
-
-## Contribuições
-
-Sinta-se à vontade para abrir **issues** ou enviar **pull requests** com melhorias ou correções.
-
-## Licença
-
-Este projeto é de uso livre sob a licença MIT.
+Sahel Sancho
+Kauan Leão
